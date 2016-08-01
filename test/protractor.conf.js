@@ -34,6 +34,9 @@ exports.config = {
           '--window-size=350,650'
         ]
       },
+    },
+    {
+      'browserName': 'firefox'
     }
   ],
 
